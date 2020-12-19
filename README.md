@@ -1,10 +1,10 @@
 # Cross-Selling Vehicle Insurance to Current Health Insurance Policy Owners
 
 ## Contributions
-All contents of this project are owned by Isaac Yoo, Tae Yeon Kim, and Alexandru Rudi.
+All contents of this project belong to:
 * **Isaac Yoo**
 * **Tae Yeon Kim**
-* **Alexandru Rudi*
+* **Alexandru Rudi**
 
 ## Abstract
 
