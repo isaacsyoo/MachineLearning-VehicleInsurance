@@ -25,7 +25,7 @@ This project aims to understand consumer behavior in the cross-selling of vehicl
 
 ## Contents
 * Data Cleanup / Preprocessing
-* Models, as per list above
+* Models
 * Evaluation
 * Final Report
 
